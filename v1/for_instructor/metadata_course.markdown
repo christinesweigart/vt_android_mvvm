@@ -29,7 +29,7 @@ The first video in each course is automatically free to non-subscribers. Choose 
 
 1. **Introduction**: Let's review what you will be learning in this course, including a brief discussion of benefits of MVVM and the course sample project.
 
-2. **MVVM**: Learn about the need for architecture patterns like MVVM and define the layers of an MVVM app.
+2. **MVVM**: In this video, you'll learn  about the need for architecture patterns like MVVM and define the layers of an MVVM app.
 
 3. **Building the Model**: Create the Model layer for the course sample project, including adding JUnit tests of Model layer classes.
 
